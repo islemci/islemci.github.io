@@ -4,42 +4,49 @@
   
     
       <url>
-            <loc>http://localhost:1313/en/posts/first-blog/</loc>
-            <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+            <loc>https://gamerYazilimci45.github.io/en/posts/anka-browser-download/</loc>
+            <lastmod>2024-12-02T00:00:00+00:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/en/</loc>
-            <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+            <loc>https://gamerYazilimci45.github.io/en/</loc>
+            <lastmod>2024-12-02T00:00:00+00:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="tr"
-              href="http://localhost:1313/"
+              href="https://gamerYazilimci45.github.io/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://localhost:1313/en/"
+              href="https://gamerYazilimci45.github.io/en/"
               />
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/en/posts/</loc>
-            <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+            <loc>https://gamerYazilimci45.github.io/en/posts/</loc>
+            <lastmod>2024-12-02T00:00:00+00:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="tr"
-              href="http://localhost:1313/posts/"
+              href="https://gamerYazilimci45.github.io/posts/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://localhost:1313/en/posts/"
+              href="https://gamerYazilimci45.github.io/en/posts/"
               />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://gamerYazilimci45.github.io/en/posts/first-blog/</loc>
+            <lastmod>2024-12-01T00:00:00+00:00</lastmod>
           </url>
     
   

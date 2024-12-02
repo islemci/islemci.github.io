@@ -2,24 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>gamerYazilimci45</title>
-    <link>http://localhost:1313/</link>
+    <link>https://gamerYazilimci45.github.io/</link>
     <description>Recent content on gamerYazilimci45</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>tr</language>
-    <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://gamerYazilimci45.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anka Browser İndirme ve Derleme</title>
+      <link>https://gamerYazilimci45.github.io/posts/anka-browser-indirme/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://gamerYazilimci45.github.io/posts/anka-browser-indirme/</guid>
+      <description>Anka Browser #Anka Browser, PyQt6 ile geliştirilmiş, QtWebEngine kullanan bir tarayıcıdır. Amaç, kullanıcılarının verilerini toplamayan, hızlı ve güvenli bir tarayıcı oluşturmaktır. Tarayıcımızı GitHub üzerinden yıldızlamayı unutmayın!&#xA;Son Kullanıcı İçin Nasıl İndirilir? # 1 ) GitHub adresimize gidin. 2 ) Sağ taraftaki &amp;ldquo;Releases&amp;rdquo; kısmından en son ki sürümümüzü(v1.9.5) indirin. 3 ) İndirdiğiniz .zip dosyasını çıkartın, ve içindeki anka-browser adlı çalıştırılabilir dosyayı çalıştırın. Tebrikler, Anka Browser&amp;rsquo;ı indirdiniz, artık kullanabilirsiniz! Pull Request ve Kodunu Almak İsteyenler İçin: Nasıl Derlenir?</description>
+    </item>
+    <item>
+      <title>Download and Compiling Anka Browser</title>
+      <link>https://gamerYazilimci45.github.io/en/posts/anka-browser-download/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://gamerYazilimci45.github.io/en/posts/anka-browser-download/</guid>
+      <description>Anka Browser #Anka Browser is a browser developed using PyQt6 and powered by QtWebEngine. The goal is to create a fast, secure browser that does not collect user data. Don’t forget to star our project on GitHub!&#xA;How to Download for End Users? # Visit our GitHub page. Navigate to the &amp;ldquo;Releases&amp;rdquo; section on the right-hand side and download the latest version (v1.9.5). Extract the downloaded .zip file, and run the executable file named anka-browser.</description>
+    </item>
     <item>
       <title>First Blog</title>
-      <link>http://localhost:1313/en/posts/first-blog/</link>
+      <link>https://gamerYazilimci45.github.io/en/posts/first-blog/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/posts/first-blog/</guid>
+      <guid>https://gamerYazilimci45.github.io/en/posts/first-blog/</guid>
       <description>Hello World! My first blog on my website use Hugo</description>
     </item>
     <item>
       <title>İlk Yazı</title>
-      <link>http://localhost:1313/posts/ilk-blog/</link>
+      <link>https://gamerYazilimci45.github.io/posts/ilk-blog/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ilk-blog/</guid>
+      <guid>https://gamerYazilimci45.github.io/posts/ilk-blog/</guid>
       <description>Merhaba dünya! Hugo kullandığım sitemdeki ilk yazım.</description>
     </item>
   </channel>
