@@ -6,8 +6,15 @@
     <description>Recent content in Posts on gamerYazilimci45</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>tr</language>
-    <lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://gamerYazilimci45.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux Güzellikleri</title>
+      <link>https://gamerYazilimci45.github.io/posts/linux-guzellikleri/</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://gamerYazilimci45.github.io/posts/linux-guzellikleri/</guid>
+      <description>Linux ve Güzellikleri #Merhabalar, bugün sizlere Linux&amp;rsquo;un güzelliklerinden ve avantajlarından bahsedeceğim. Linux&amp;rsquo;un dezavantajlarından da bahsetmeyi ilerde düşünüyorum. Fakat burada Linux&amp;rsquo;un kullanıcı dostu olup olmamamasıyla alakalı bir eleştiride bulunmayacağım, yeni başlayacak/başlayan birisiyseniz okuyarak kafa karıştırmanızı tavsiye etmem.&#xA;Çeşitlilik ve Özgürlük #Linux tek bir işletim sistemi değil, bir sürü dağıtımı var. Herkes için, her meslek için, her kitle için. Ayrıca işletim sisteminden ziyade, dosya yöneticisi, terminal, kabuk(shell), metin düzenleyici, masaüstü ortamı, güvenlik duvarı, hepsinde bir sürü alternatif var.</description>
+    </item>
     <item>
       <title>Anka Browser İndirme ve Derleme</title>
       <link>https://gamerYazilimci45.github.io/posts/anka-browser-indirme/</link>
