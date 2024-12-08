@@ -6,8 +6,22 @@
     <description>Recent content on gamerYazilimci45</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>tr</language>
-    <lastBuildDate>Fri, 06 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://gamerYazilimci45.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anka Browser v1.9.7 Released!</title>
+      <link>https://gamerYazilimci45.github.io/en/posts/anka-browser-v1.9.7/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://gamerYazilimci45.github.io/en/posts/anka-browser-v1.9.7/</guid>
+      <description>Anka Browser v1.9.7 #Anka Browser is my browser project. If you don’t know what it is, you can click on the link to my blog where I introduce it and explain how to install it. You can also find instructions for downloading it on the same link.&#xA;This new version introduces several features, taking significant steps toward v2.0.&#xA;What’s New? #Open Your Files and Images #I’ve added a &amp;ldquo;File Open&amp;rdquo; menu to the right-click menu, allowing you to open images, HTML, Markdown, text, and PDF files.</description>
+    </item>
+    <item>
+      <title>Anka Browser v1.9.7 Yayınlandı!</title>
+      <link>https://gamerYazilimci45.github.io/posts/anka-browser-v1.9.7/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://gamerYazilimci45.github.io/posts/anka-browser-v1.9.7/</guid>
+      <description>Anka Browser v1.9.7 #Anka Browser benim tarayıcı projem, eğer ne olduğunu bilmiyorsanız, tanıttığım ve nasıl kurulacağını anlattığım blogumun linkine tıklayarak öğrenebilirsiniz. İndirmek istersenizde yine aynı linkte nası indirebileceğinizi anlattım. Yeni versiyonda getirdiğim birkaç şey var. Fakat v2.0 için önemli adımlar.&#xA;Neler Eklendi? #Dosyalarınızı ve Resimlerinizi Açın #Sağ menüye eklediğim &amp;ldquo;Dosya Aç&amp;rdquo; menüsüyle, resim, HTML, Markdown, metin, ve PDF dosyalarınızı açabilirsiniz.&#xA;PDF&amp;rsquo;leriniz için özel destek #Tarayıcımız PyQt6WebEngine ile yapıldığından ana taban olarak Chromium kullanmaktadır.</description>
+    </item>
     <item>
       <title>Linux Güzellikleri</title>
       <link>https://gamerYazilimci45.github.io/posts/linux-guzellikleri/</link>
