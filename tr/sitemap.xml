@@ -4,8 +4,15 @@
   
     
       <url>
+            <loc>http://localhost:1313/en/</loc>
+            <lastmod>2024-12-28T11:04:36+03:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
             <loc>http://localhost:1313/</loc>
-            <lastmod>2024-12-21T00:00:00+00:00</lastmod>
+            <lastmod>2024-12-28T11:04:36+03:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="en"
@@ -21,8 +28,22 @@
   
     
       <url>
+            <loc>http://localhost:1313/en/posts/spyder/</loc>
+            <lastmod>2024-12-28T11:04:36+03:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/posts/spyder-inceleme/</loc>
+            <lastmod>2024-12-28T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
             <loc>http://localhost:1313/posts/</loc>
-            <lastmod>2024-12-21T00:00:00+00:00</lastmod>
+            <lastmod>2024-12-28T00:00:00+00:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="en"
@@ -33,13 +54,6 @@
               hreflang="tr"
               href="http://localhost:1313/posts/"
               />
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/en/</loc>
-            <lastmod>2024-12-19T00:00:00+00:00</lastmod>
           </url>
     
   

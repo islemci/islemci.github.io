@@ -5,7 +5,7 @@
     
       <url>
             <loc>http://localhost:1313/en/</loc>
-            <lastmod>2024-12-19T00:00:00+00:00</lastmod>
+            <lastmod>2024-12-28T11:04:36+03:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="tr"
@@ -21,15 +21,8 @@
   
     
       <url>
-            <loc>http://localhost:1313/en/posts/rofi-experiences/</loc>
-            <lastmod>2024-12-19T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
             <loc>http://localhost:1313/en/posts/</loc>
-            <lastmod>2024-12-19T00:00:00+00:00</lastmod>
+            <lastmod>2024-12-28T11:04:36+03:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="tr"
@@ -40,6 +33,20 @@
               hreflang="en"
               href="http://localhost:1313/en/posts/"
               />
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/en/posts/spyder/</loc>
+            <lastmod>2024-12-28T11:04:36+03:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/en/posts/rofi-experiences/</loc>
+            <lastmod>2024-12-19T00:00:00+00:00</lastmod>
           </url>
     
   
